@@ -4,7 +4,7 @@
 
 ***E-mail: nadika.name@gmail.com  
 Skype: nadikalion  
-Linkedin: https://www.linkedin.com/in/nadika-zavodovska***  
+Linkedin: [Nadika's profile](https://www.linkedin.com/in/nadika-zavodovska)***  
 
 *I am highly motivated Front-end developer with a passion for modern technology. I am responsible and dedicated with proven multitasking and organisational skills. Proficient operating in fast-paced environments. Experience solving problems creatively and using tact and diplomacy to achieve win-win outcomes. Team player comfortable in competitive, fast-paced environments. Currently I am open to new opportunities as a Front End Developer and Web Developer.*  
 
