@@ -1,5 +1,7 @@
 # Nadika Zavodovska  
 
+![Nadika's photo](https://mir-s3-cdn-cf.behance.net/user/115/3dd8bf78325705.592c825dd193c.jpg)
+
 ***E-mail: nadika.name@gmail.com  
 Skype: nadikalion  
 Linkedin: https://www.linkedin.com/in/nadika-zavodovska***  
@@ -27,8 +29,8 @@ I am highly motivated Front-end developer with a passion for modern technology. 
 :point_right:	Russian - Fluent;  
 :point_right:	Ukrainian - Fluent.  
 
-**PORTFOLIO**
-[http://imaginarium-webstudio.com]
+**PORTFOLIO**  
+http://imaginarium-webstudio.com 
 
 
 
