@@ -14,7 +14,11 @@ header, main{
 }
 main{
     max-width: 450px;
-    margin: 0 0 50px;
+    margin: 0 auto 50px;
+}
+main h2{
+    display: block;
+    text-align: center;
 }
 footer {
     background: #f9f78a;
@@ -73,7 +77,7 @@ img.author-photo {
 .highlight-code{
     display: inline-block;
    padding: 20px;
-   font-size: 100%;
+   font-size: 85%;
     overflow: auto;
     
     line-height: 1.5;
