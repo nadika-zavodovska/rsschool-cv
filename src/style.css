@@ -1,0 +1,88 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+    margin:0;
+}
+h2{
+    display: inline-block;
+    border-bottom: 2px solid #f9f78a;
+}
+header, main{
+    margin: 10px;
+}
+main{
+    margin-bottom: 50px;
+}
+footer {
+    background: #f9f78a;
+    text-align: center;
+    padding: 20px 0;
+}
+h1 {
+    margin-bottom: 0;
+}
+header a{
+    text-decoration: none;
+}
+nav{
+    margin-top: 50px;
+    background: #f9f78a56;
+    text-align: center;
+    padding-bottom: 20px;
+    border-radius: 10px;
+}
+nav h2{
+    margin-bottom: 0;
+    border-bottom: none;
+}
+nav li{
+    list-style-type: none; 
+    font-size: 18px;
+}
+nav li a{
+    text-decoration: none;
+}
+
+nav ul{
+    margin-left: 0;
+    padding-left: 0;
+    text-align:center;
+}
+.container{
+    max-width: 870px;
+    margin: 0 auto;
+}
+.author-photo-block{
+    float: left;
+    
+}
+img.author-photo {
+    margin-left: 25%;
+    max-width: 50%;
+    border-radius: 50%;
+}
+.projects-links-block a{
+    text-decoration: none;
+}
+.highlight-code{
+    display: inline-block;
+   padding: 20px;
+   font-size: 100%;
+    overflow: auto;
+    
+    line-height: 1.5;
+    background-color: #f5f7f8;
+    border-radius: 10px; 
+}
+.github-link-nadika{
+    text-decoration: none;
+    color:rgb(6, 88, 220)
+}
+
+.rsschool-logo{
+    max-width: 15%;
+    margin-left: 15px;
+    margin-top: 15px;
+}
